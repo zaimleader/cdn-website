@@ -1,1 +1,1 @@
-crossOriginIsolated.log("Test CDN Script.js")
+console.log("Test CDN Script.js")
